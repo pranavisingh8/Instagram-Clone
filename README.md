@@ -38,8 +38,6 @@ Applying Filters
 
 When creating a post, select one of the three filters to apply to your image.
 
-# Social-media-app
-
 link to the app is :
 https://pranavi-singhs-team.adalo.com/instagram
 # Vibe-ly: Social Media App Development
