@@ -1,6 +1,12 @@
 ## Instagram Clone
 Welcome to the Instagram Clone Project! This project is a simplified version of Instagram, allowing users to create and manage posts, leave comments, like posts, and apply filters to their images. The project is designed to work seamlessly on both mobile and web views.
 
+link to the app is :
+https://pranavi-singhs-team.adalo.com/instagram
+# Vibe-ly: Social Media App Development
+
+## Overview
+
 ### Features
 Create Posts: Users can create new posts by uploading images and adding captions.
 Save Posts Locally: All posts are saved in a local database.
@@ -38,11 +44,6 @@ Applying Filters
 
 When creating a post, select one of the three filters to apply to your image.
 
-link to the app is :
-https://pranavi-singhs-team.adalo.com/instagram
-# Vibe-ly: Social Media App Development
-
-## Overview
 
 ## Vibe-ly is a social media application designed to connect users through sharing posts, updating profiles, and fostering a vibrant online community. This project encompasses various essential functionalities, including:
 
