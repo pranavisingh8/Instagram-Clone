@@ -16,7 +16,7 @@ Like Posts: Users can like posts.
 Apply Filters: Users can apply one of three filters to their posts.
 Responsive Design: The application works on both mobile and web views.
 
-### Technologies Used
+### Technologies Used:
 Frontend: Svelte, SvelteKit
 Backend: Node.js, Express.js
 Database: SQLite (or any local database of your choice)
