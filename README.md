@@ -6,7 +6,7 @@ Welcome to the Instagram Clone Project! This project is a simplified version of 
 ## Link to the app is :
 https://pranavi-singhs-team.adalo.com/instagram
 
-## Overview
+## Overview:
 
 ### Features
 Create Posts: Users can create new posts by uploading images and adding captions.
